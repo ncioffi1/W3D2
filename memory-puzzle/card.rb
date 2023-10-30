@@ -7,7 +7,8 @@
     # commits your git.  always have a message.  nothing too fancy.
 
 class Card
-    def initialize(name)
+    def initialize(name, size)
         @name = name
+        @size = size
     end
 end
