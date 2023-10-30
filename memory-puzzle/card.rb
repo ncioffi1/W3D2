@@ -6,6 +6,9 @@
 # git commit -m "message"
     # commits your git.  always have a message.  nothing too fancy.
 
+# git add -A
+    # adds all stages.  can also do git add .
+
 class Card
     def initialize(name, size)
         @name = name
