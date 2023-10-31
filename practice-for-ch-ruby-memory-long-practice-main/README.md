@@ -1,4 +1,4 @@
-# Memory Puzzle
+<!-- # Memory Puzzle
 
 Today you're going to implement a simple command-line version of the classic
 [Match 2 Memory card game][match-memory].
@@ -157,4 +157,4 @@ class. That's ok.
   this is too harsh, perhaps you can implement "lives" or "hit points".) You
   might also want to determine the bomb count as a function of board size.
 - You've already got a working "Match 2" puzzle. What about a "Match 3" or
-  "Match 4"? Generalize your code to work for any number of matching cards.
+  "Match 4"? Generalize your code to work for any number of matching cards. -->
