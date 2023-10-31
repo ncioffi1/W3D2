@@ -11,9 +11,9 @@ class Card
 
     def display
         if !@face_up
-            puts ""
+            print "--"
         else
-            puts @face_value
+            print @face_value
         end
     end
 
