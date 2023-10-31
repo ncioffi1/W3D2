@@ -12,6 +12,10 @@
 # cloning
 # https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
 
+# to clone:
+# do git clone <link to repo>
+
+# 
 class Whatever
     def initialize(name, size)
         @name = name
